@@ -1,0 +1,2 @@
+# MinGW DirectX9 
+gcc -fno-exceptions -fpermissive -static -D"MINGW" -I"/C/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include" -L"/C/Program Files (x86)/Microsoft DirectX SDK (June 2010)/lib/x86" -o elevatedG.exe elevated.cpp -lKernel32 -lUser32 -lwinmm -ld3d9 -ld3dx9 -lstdc++ -mwindows -nostdlib 

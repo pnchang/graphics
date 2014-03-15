@@ -1,0 +1,12 @@
+4KB Intro "Elevated" was disassembled. 2009¦~05¤ë23¤é
+http://kioku.sys-k.net/archives/2009/05/4kb_intro_eleva.html
+
+Inigo ¡¥iq¡¦ Quilez, "Behind elevated", Function 2009 - Budapest
+http://iquilezles.org/www/material/function2009/function2009.htm
+http://iquilezles.org/www/material/function2009/function2009.pdf
+ftp://ftp.scene.org/pub/parties/2009/breakpoint09/in4k/rgba_tbc_elevated.zip
+ftp://ftp.scene.org/pub/parties/2009/breakpoint09/in4k/elevated_win7_test.zip
+
+
+Minimum Video Card Requirement
+DirectX 9.0c (Shader Model 3.0) 
