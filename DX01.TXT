@@ -1,0 +1,3 @@
+Direct3D Surfaces (Direct3D 9)
+Ben Kenwright, "Rasterization : Drawing Lines", http://www.xbdev.net/maths_of_3d/rasterization/line/index.php.
+ftp://ftp.scene.org/pub/mirrors/hornet/code/effects/stars/objstar.zip.
