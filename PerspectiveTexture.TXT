@@ -1,0 +1,8 @@
+Just modified ousttrue's code. There is nothing new about it.  
+If no check16x16.pgm file, run the execution file with a argument to create one, e.g., DEMOG.EXE 1.
+
+Sources:
+Mikael Kalms, "Perspective Texturemapping using linear interpolation of 1/Z, U/Z and V/Z", http://www.lysator.liu.se/~mikaelk/doc/perspectivetexture/.
+ousttrue, "[2D][Triangle][C++]", http://d.hatena.ne.jp/ousttrue/20090218/1234974683, http://ousttrue.github.io/.
+Paul Nettle, "High Speed Software Rendering", http://www.flipcode.com/archives/High_Speed_Software_Rendering.shtml.
+"Netpbm format", https://en.wikipedia.org/wiki/Netpbm_format.
